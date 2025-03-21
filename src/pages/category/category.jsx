@@ -1,8 +1,8 @@
 import React from "react";
-import sell1 from "/Saylani Batch 12 2024/React/ecommerce-app-ui/public/assets/sell1.png";
-import sell2 from "/Saylani Batch 12 2024/React/ecommerce-app-ui/public/assets/sell2.png";
-import sell3 from "/Saylani Batch 12 2024/React/ecommerce-app-ui/public/assets/sell3.png";
-import sell4 from "/Saylani Batch 12 2024/React/ecommerce-app-ui/public/assets/sell4.png";
+import sell1 from "/assets/sell1.png";
+import sell2 from "/assets/sell2.png";
+import sell3 from "/assets/sell3.png";
+import sell4 from "/assets/sell4.png";
 
 const Category = () => {
   return (

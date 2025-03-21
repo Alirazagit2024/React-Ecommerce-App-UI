@@ -1,6 +1,6 @@
 import React from "react";
-import A1 from "/Saylani Batch 12 2024/React/ecommerce-app-ui/public/assets/arrival1.png";
-import A2 from "/Saylani Batch 12 2024/React/ecommerce-app-ui/public/assets/arrival2.png";
+import A1 from "/assets/arrival1.png";
+import A2 from "/assets/arrival2.png";
 
 function Cart() {
   return (

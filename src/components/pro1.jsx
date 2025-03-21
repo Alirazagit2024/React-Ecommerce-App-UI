@@ -1,14 +1,14 @@
 import React from 'react';
 import "/src/App.css"
 // import img from 'next/img';
-import sell1 from "/Saylani Batch 12 2024/React/ecommerce-app-ui/public/assets/sell1.png";
-import rat1 from "/Saylani Batch 12 2024/React/ecommerce-app-ui/public/assets/rating5.png";
-import rat2 from "/Saylani Batch 12 2024/React/ecommerce-app-ui/public/assets/rating6.png";
-import rat3 from "/Saylani Batch 12 2024/React/ecommerce-app-ui/public/assets/rating1.png";
-import rat4 from "/Saylani Batch 12 2024/React/ecommerce-app-ui/public/assets/rating7.png";
-import sell2 from "/Saylani Batch 12 2024/React/ecommerce-app-ui/public/assets/sell2.png";
-import sell3 from "/Saylani Batch 12 2024/React/ecommerce-app-ui/public/assets/sell3.png";
-import sell4 from "/Saylani Batch 12 2024/React/ecommerce-app-ui/public/assets/sell4.png";
+import sell1 from "/assets/sell1.png";
+import rat1 from "/assets/rating5.png";
+import rat2 from "/assets/rating6.png";
+import rat3 from "/assets/rating1.png";
+import rat4 from "/assets/rating7.png";
+import sell2 from "/assets/sell2.png";
+import sell3 from "/assets/sell3.png";
+import sell4 from "/assets/sell4.png";
 
 export default function Pro1() {
     return (

@@ -1,11 +1,11 @@
 import React from "react";
 import "/src/App.css"
 // import Image from "next/image";
-import brand1 from "/Saylani Batch 12 2024/React/ecommerce-app-ui/public/assets/versace.png";
-import brand2 from "/Saylani Batch 12 2024/React/ecommerce-app-ui/public/assets/zara.png";
-import brand3 from "/Saylani Batch 12 2024/React/ecommerce-app-ui/public/assets/gucci.png";
-import brand4 from "/Saylani Batch 12 2024/React/ecommerce-app-ui/public/assets/prada.png";
-import brand5 from "/Saylani Batch 12 2024/React/ecommerce-app-ui/public/assets/calvin.png";
+import brand1 from "/assets/versace.png";
+import brand2 from "/assets/zara.png";
+import brand3 from "/assets/gucci.png";
+import brand4 from "/assets/prada.png";
+import brand5 from "/assets/calvin.png";
 
 export default function BrandBar() {
   return (

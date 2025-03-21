@@ -1,15 +1,15 @@
 import React from "react";
-import emailIcone from "/Saylani Batch 12 2024/React/ecommerce-app-ui/public/assets/emailIcon.png";
-import logo from "/Saylani Batch 12 2024/React/ecommerce-app-ui/public/assets/Logo.png";
-import tw from "/Saylani Batch 12 2024/React/ecommerce-app-ui/public/assets/twiter.png";
-import fb from "/Saylani Batch 12 2024/React/ecommerce-app-ui/public/assets/fb.png";
-import ig from "/Saylani Batch 12 2024/React/ecommerce-app-ui/public/assets/ig.png";
-import gh from "/Saylani Batch 12 2024/React/ecommerce-app-ui/public/assets/gh.png";
-import visa from "/Saylani Batch 12 2024/React/ecommerce-app-ui/public/assets/visa.png";
-import master from "/Saylani Batch 12 2024/React/ecommerce-app-ui/public/assets/master.png";
-import paypal from "/Saylani Batch 12 2024/React/ecommerce-app-ui/public/assets/paypal.png";
-import applepay from "/Saylani Batch 12 2024/React/ecommerce-app-ui/public/assets/applepay.png";
-import gpay from "/Saylani Batch 12 2024/React/ecommerce-app-ui/public/assets/gpay.png";
+import emailIcone from "/assets/emailIcon.png";
+import logo from "/assets/Logo.png";
+import tw from "/assets/twiter.png";
+import fb from "/assets/fb.png";
+import ig from "/assets/ig.png";
+import gh from "/assets/gh.png";
+import visa from "/assets/visa.png";
+import master from "/assets/master.png";
+import paypal from "/assets/paypal.png";
+import applepay from "/assets/applepay.png";
+import gpay from "/assets/gpay.png";
 
 export default function Footer() {
   return (

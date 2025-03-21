@@ -1,8 +1,8 @@
 import React from "react";
-import Pfirst from "/Saylani Batch 12 2024/React/ecommerce-app-ui/public/assets/image 1.png";
-import Psec from "/Saylani Batch 12 2024/React/ecommerce-app-ui/public/assets/image 2.png";
-import Pthird from "/Saylani Batch 12 2024/React/ecommerce-app-ui/public/assets/image 5.png";
-import Pfor from "/Saylani Batch 12 2024/React/ecommerce-app-ui/public/assets/image 6.png";
+import Pfirst from "/assets/image 1.png";
+import Psec from "/assets/image 2.png";
+import Pthird from "/assets/image 5.png";
+import Pfor from "/assets/image 6.png";
 import Pro1 from "/Saylani Batch 12 2024/React/ecommerce-app-ui/src/components/pro1";
 
 // Static product details

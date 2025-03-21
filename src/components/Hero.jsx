@@ -1,7 +1,7 @@
 import React from "react";
 import "/src/App.css"
-import heroImage from "/Saylani Batch 12 2024/React/ecommerce-app-ui/public/assets/heroImage.png"
-import star from "/Saylani Batch 12 2024/React/ecommerce-app-ui/public/assets/starLarge.png";
+import heroImage from "/assets/heroImage.png"
+import star from "/assets/starLarge.png";
 import { Link } from "react-router-dom";
 
 export default function Hero() {

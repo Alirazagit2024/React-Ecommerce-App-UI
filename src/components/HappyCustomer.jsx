@@ -1,7 +1,7 @@
 import React from 'react';
 import "/src/App.css"
-import fiveStar from '/Saylani Batch 12 2024/React/ecommerce-app-ui/public/assets/fivestar.png';
-import varified from '/Saylani Batch 12 2024/React/ecommerce-app-ui/public/assets/verified.png';
+import fiveStar from '/assets/fivestar.png';
+import varified from '/assets/verified.png';
 
 const HappyCustomer = () => {
   return (

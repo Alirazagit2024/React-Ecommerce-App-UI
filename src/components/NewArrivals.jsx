@@ -1,21 +1,21 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import "/src/App.css"
-import Arrival1 from "/Saylani Batch 12 2024/React/ecommerce-app-ui/public/assets/arrival2.png";
-import Arrival2 from "/Saylani Batch 12 2024/React/ecommerce-app-ui/public/assets/arrival2.png";
-import Arrival3 from "/Saylani Batch 12 2024/React/ecommerce-app-ui/public/assets/arrival3.png";
-import Arrival4 from "/Saylani Batch 12 2024/React/ecommerce-app-ui/public/assets/arrival4.png";
-import rating1 from "/Saylani Batch 12 2024/React/ecommerce-app-ui/public/assets/rating1.png";
-import rating2 from "/Saylani Batch 12 2024/React/ecommerce-app-ui/public/assets/rating2.png";
-import rating3 from "/Saylani Batch 12 2024/React/ecommerce-app-ui/public/assets/rating3.png";
-import rating4 from "/Saylani Batch 12 2024/React/ecommerce-app-ui/public/assets/rating4.png";
-import rating5 from "/Saylani Batch 12 2024/React/ecommerce-app-ui/public/assets/rating5.png";
-import rating6 from "/Saylani Batch 12 2024/React/ecommerce-app-ui/public/assets/rating6.png";
-import rating7 from "/Saylani Batch 12 2024/React/ecommerce-app-ui/public/assets/rating7.png";
-import sell1 from "/Saylani Batch 12 2024/React/ecommerce-app-ui/public/assets/sell1.png";
-import sell2 from "/Saylani Batch 12 2024/React/ecommerce-app-ui/public/assets/sell2.png";
-import sell3 from "/Saylani Batch 12 2024/React/ecommerce-app-ui/public/assets/sell3.png";
-import sell4 from "/Saylani Batch 12 2024/React/ecommerce-app-ui/public/assets/sell4.png";
+import Arrival1 from "/assets/arrival2.png";
+import Arrival2 from "/assets/arrival2.png";
+import Arrival3 from "/assets/arrival3.png";
+import Arrival4 from "/assets/arrival4.png";
+import rating1 from "/assets/rating1.png";
+import rating2 from "/assets/rating2.png";
+import rating3 from "/assets/rating3.png";
+import rating4 from "/assets/rating4.png";
+import rating5 from "/assets/rating5.png";
+import rating6 from "/assets/rating6.png";
+import rating7 from "/assets/rating7.png";
+import sell1 from "/assets/sell1.png";
+import sell2 from "/assets/sell2.png";
+import sell3 from "/assets/sell3.png";
+import sell4 from "/assets/sell4.png";
 
 function NewArrivals() {
   return (

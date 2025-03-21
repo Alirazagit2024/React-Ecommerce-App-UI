@@ -1,9 +1,9 @@
 import React from 'react'
 import "/src/App.css"
-import browse1 from '/Saylani Batch 12 2024/React/ecommerce-app-ui/public/assets/browse1.png'
-import browse2 from '/Saylani Batch 12 2024/React/ecommerce-app-ui/public/assets/browse2.png'
-import browse3 from '/Saylani Batch 12 2024/React/ecommerce-app-ui/public/assets/browse3.png'
-import browse4 from '/Saylani Batch 12 2024/React/ecommerce-app-ui/public/assets/browse4.png'
+import browse1 from '/assets/browse1.png'
+import browse2 from '/assets/browse2.png'
+import browse3 from '/assets/browse3.png'
+import browse4 from '/assets/browse4.png'
 const Browse = () => {
   return (
     <>

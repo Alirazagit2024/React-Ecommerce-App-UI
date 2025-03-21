@@ -1,13 +1,13 @@
 import React, { useState } from "react";
 import { Link } from "react-router-dom";
-import X from "/Saylani Batch 12 2024/React/ecommerce-app-ui/public/assets/X.png";
-import cross from "/Saylani Batch 12 2024/React/ecommerce-app-ui/public/assets/cross.png";
-import hamburger from "/Saylani Batch 12 2024/React/ecommerce-app-ui/public/assets/hamburgermenu.png";
-import Logo from "/Saylani Batch 12 2024/React/ecommerce-app-ui/public/assets/Logo.png";
-import searchIcon from "/Saylani Batch 12 2024/React/ecommerce-app-ui/public/assets/searchIcon.png";
-import Cart from "/Saylani Batch 12 2024/React/ecommerce-app-ui/public/assets/cartIcon.png";
-import profile from "/Saylani Batch 12 2024/React/ecommerce-app-ui/public/assets/profileIcon.png";
-import dropdown from "/Saylani Batch 12 2024/React/ecommerce-app-ui/public/assets/dropDownIcon.png";
+import X from "/assets/X.png";
+import cross from "/assets/cross.png";
+import hamburger from "/assets/hamburgermenu.png";
+import Logo from "/assets/Logo.png";
+import searchIcon from "/assets/searchIcon.png";
+import Cart from "/assets/cartIcon.png";
+import profile from "/assets/profileIcon.png";
+import dropdown from "/assets/dropDownIcon.png";
 
 const Navbar = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
